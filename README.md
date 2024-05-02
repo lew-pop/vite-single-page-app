@@ -1,6 +1,6 @@
 # Cali-Girl Notary
 
-Welcome to the repository for Cali-Girl Notary, a static single-page application (SPA) crafted with Vite, Vue, and TypeScript. This website is designed to serve as the primary online presence for Cali-Girl Notary, a notary public business based in California. The application allows clients to learn more about services, schedule appointments, and send inquiries directly through a streamlined, user-friendly interface.
+Welcome to the repository for Cali-Girl Notary, a static single-page application (SPA) crafted with Vite, Vue, and TypeScript. This website is designed to serve as the primary online presence for Cali-Girl Notary, a notary public business based in California. The application allows clients to learn more about services, schedule appointments, and send inquiries directly through a streamlined, user-friendly interface. The link to the site can be found in the About section of this repository.
 
 ## Features
 
