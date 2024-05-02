@@ -1,0 +1,17 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.dom.json",
+  "include": ["env.d.ts", "src/**/*", "src/**/*.vue"],
+  "exclude": ["src/**/__tests__/*"],
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": true,
+    "baseUrl": ".",
+    "module": "esnext", // Suitable for modern browsers and bundlers like Webpack or Vite
+    "target": "es2020", // Reasonably modern, but compatible with older browsers
+    "lib": ["dom", "esnext"], // Include DOM library and latest ECMAScript features
+    "outDir": "./dist/app",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /api/
+Disallow:/router/
+Disallow: /temp/
+Disallow: /cache/
+Sitemap: https://www.caligirlnotary.com/sitemap.xml

@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "es2020", // Modern target for newer browsers    
+    "moduleResolution": "node", // Node.js style module resolution
+    "lib": ["dom", "dom.iterable", "esnext"], // Libraries for web development
+    "composite": true,
+    "baseUrl": ".",
+    "module": "ESNext",
+    "types": ["node"],
+    "noUnusedLocals": false,
+  },
+  // "include": ["env.d.ts", "src/*/", "src/*/.vue", "src/*/*.vue",  "src/*/.json"],
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ],
+  "include": ["components.d.ts"],
+  "exclude": ["node_modules/**"],
+
+}
