@@ -51,5 +51,4 @@ bunx -bun vite build
 ```sh
 bun run lint
 ```
-# cali-girl-online
-# lew-pop.github.io
+
