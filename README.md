@@ -10,9 +10,12 @@ Welcome to the repository for Cali-Girl Notary, a static single-page application
 
 This project aims to provide a professional online platform for Cali-Girl Notary, enhancing their digital marketing and customer interaction strategies. Check back for updates as we expand our features to better serve our clients.
 
-## Screenshots of Website
+## [Cali-Girl Notary](https://www.caligirlnotary.com/notary/) Website Screenshots
 
 ![Contact Form](https://github.com/lew-pop/vite-single-page-app/blob/main/src/assets/Cali-Girl-Contact-Form.png)
+![Hero Section](https://github.com/lew-pop/vite-single-page-app/blob/main/src/assets/Cali-Girl-Hero-Section.png)
+![FAQ](https://github.com/lew-pop/vite-single-page-app/blob/main/src/assets/Cali-Girl-FAQ.png)
+![Services](https://github.com/lew-pop/vite-single-page-app/blob/main/src/assets/Cali-Girl-Services-Section.png)
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) 
