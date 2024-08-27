@@ -12,7 +12,7 @@ This project aims to provide a professional online platform for Cali-Girl Notary
 
 ## Screenshots of Website
 
-![Contact Form](src/assets/Cali-Girl-Contact-Form)
+![Contact Form](https://github.com/lew-pop/vite-single-page-app/blob/main/src/assets/Cali-Girl-Contact-Form.png)
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) 
