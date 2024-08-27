@@ -10,7 +10,9 @@ Welcome to the repository for Cali-Girl Notary, a static single-page application
 
 This project aims to provide a professional online platform for Cali-Girl Notary, enhancing their digital marketing and customer interaction strategies. Check back for updates as we expand our features to better serve our clients.
 
+## Screenshots of Website
 
+![Contact Form](src/assets/Cali-Girl-Contact-Form)
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) 
